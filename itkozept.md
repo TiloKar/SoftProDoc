@@ -14,4 +14,4 @@ vom Dozenten abklappern was man so an Buzzwords davon verwenden kann. Wirklich s
 * Aufbau bzw. Coding der Software
 * Verifying and Testing - z.B. Selenium
 * Releasing and Deploying - z.B. Docker, Jenkins
-* Configuring and Operating
+* Configuring and Operating - z.B.
