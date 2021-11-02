@@ -7,4 +7,5 @@ Low Budget Mini ERP mit Wordpress für Vereine
 * [CI Repository](https://github.com/TiloKar/SoftProPlugin)
 * [CD Konzept](https://github.com/TiloKar/SoftProDoc/blob/main/cd.md)
 * [Pitchdeck](https://github.com/TiloKar/SoftProDoc/blob/main/pitchdeck.md)
-* [Prototyp Produktiv](http://a51.av-zeesen-seeblick.de/)
+* [Prototyp Produktiv_User](http://a51.av-zeesen-seeblick.de/)
+* [Prototyp Produktiv_Admin](http://a51.av-zeesen-seeblick.de/wp-login/)
