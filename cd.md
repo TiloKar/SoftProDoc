@@ -11,5 +11,8 @@
 * Eine kontinuierliche Bereitstellung erhöht die Nutzerfreundlichkeit im Prozess und
 * vermindert den Zeitaufwand der Testphase.
 
-# Technische Beschreibung
-* Die 
+# Github Actions
+* CD erfolgt durch Workflows in Githubup Actions.
+* Ein Workflow ist ein automtisierter Prozess, der in der GitHub-Repository eingerichtet wird.
+* Der Workflow besteht aus Aktionen, die nach einen angegebenn Ereigniss ausgeführt werden.
+* GitHub Actions dient der Erstellung eine dynamische CI/CD-Pipline.
