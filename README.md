@@ -1,5 +1,6 @@
 # Softwaretechnik Projekt
-Low Budget Mini ERP mit Wordpress für Vereine
+## Low Budget Mini ERP mit Wordpress Plugin für Vereine
+![DevOps Cycle angewendet auf unser Projekt](https://github.com/TiloKar/SoftProDoc/raw/main/img/dev_ops_cycle.png "DevOps Zyklus angewendet auf unser Projekt")
 
 * [KickOff](https://github.com/TiloKar/SoftProDoc/blob/main/kickoff.md)
 * [IT-Konzept](https://github.com/TiloKar/SoftProDoc/blob/main/itkozept.md)
