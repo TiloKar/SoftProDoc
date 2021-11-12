@@ -33,11 +33,11 @@
     </tr>
     <tr>
       <td>Genaue Protokollierungen / Zeitmaschine</td>
-      <td>Inhalt</td>
+      <td></td>
     </tr>
     <tr>
       <td>frühzeitiges Erkennen von Fehler, die umgehend bearbeitet werden können</td>
-      <td>Inhalt</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
