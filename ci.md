@@ -4,6 +4,8 @@
 * kontinuierliche Änderungen
 * Rückmeldung für Entwickler
 
+![test](https://i.imgur.com/OejDwPS.png)
+
 # Vorteile vom CI
 
 
