@@ -32,11 +32,15 @@ Mit der Mini-ERP „MeinVerein24“ sollen die Prozesse im Verein digitalisiert 
 ## Anforderung und Feedbackschleife:
 Die Priorität der Vereine bei den Digitalisierungsmaßnahmen soll in der Kommunikation liegen. Zum einen genießt die Kommunikation innerhalb des Mitgliederbereich höchste Priorität zum anderen die Kommunikation zwischen Anwender und Entwickler.
 
-In den meisten Fällen wird die Organisation der Vereine über Ehrenamtliche übernommen. Von daher ist diese Zielgruppe für den Entwickler entscheidend, damit die Anwendung ihren Zweck erfüllt. Die Anwendung sollte ein gutes Arbeitsumfeld bieten und auf die individuellen Wünsche der Anwender eingehen können. Die Funktionen sollten übersichtlich und intuitiv gestaltet sein. Eine zentrale E-Mail-Adresse für Anliegen der Anwender sollte vorliegen. Die Reaktionszeit des Supports sollte nicht mehr als 2 Werktage betragen.
+In den meisten Fällen wird die Organisation der Vereine über Ehrenamtliche übernommen. Von daher ist diese Zielgruppe für den Entwickler entscheidend, damit die Anwendung ihren Zweck erfüllt. Die Anwendung sollte ein gutes Arbeitsumfeld bieten und auf die individuellen Wünsche der Anwender eingehen können. Die Funktionen sollten übersichtlich und intuitiv gestaltet sein. Das Ziel ist es, dass die Anwender sich gerne und länger an dem Plug-In aufhalten als bei den Mitbewerber
+Eine zentrale E-Mail-Adresse für Anliegen der Anwender sollte vorliegen. Die Reaktionszeit des Supports sollte nicht mehr als 2 Werktage betragen.
 
 ## Entwicklung/ Test:
 Hier lautet die Strategie: Gemeinsame Entwicklung und kontinuierliches Testen.
 Wordpress basiert auf die Skriptsprache PHP. Wordpress-Plug-Ins sind nichts anderes als PHP-Skripte. Die Entwicklung sollte sich nach dem PHP-Coding Standard richten. (siehe https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/)
+
+## Wordpress Testumgebung einrichten
+Im Webhosting-Paket wird eine neue Subdomain angelegt, die auf ein separates Hauptverzeichnis verweist z.B. "dev.MeinVerein24.de", welches auf das Hauptverzeichnis "/dev" verweist. Alle Dateien vom Wordpress-Plug-In werden in das Hauptverzeichnis der Subdomain kopiert.
 
 ## Bereitstellung:
 
