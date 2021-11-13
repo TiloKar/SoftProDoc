@@ -57,7 +57,11 @@
 <h2> Wie verbinde ich Atom mit GitHub? </h2>
   <p> Für die Verbindung des Atom-Texteditors mit GitHub sind folgende Punkte Voraussetzung </p>
   <ul>
-    <li><h3>1. Herunterladen des Atom-Texteditors<h3></li>
-    <li>2. Registrierung bei GitHub und Repository-Verlinkung</li>
-    <li>3. XY</li>
+    <li>
+      <h3>Herunterladen und Installation des Atom-Texteditors</h3>
+      <p> Unter der URL https://atom.io/ kann die aktuell Version von Atom runtergeladen werden</p>
+      <p> Im Anschluss kann die heruntergeladene .exe-Datei unter dem gewünschten Pfad installiert werden </p>
+    </li>
+    <li><h3>Registrierung bei GitHub und Repository-Verlinkung<h3></li>
+    <li><h3>3. XY<h3></li>
   </ul>
