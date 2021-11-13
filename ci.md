@@ -80,5 +80,7 @@
         <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/atom_clone_command.png?raw=true" alt="atom_clone_command"/>
         <p>Im Anschluss kann man den Link vom Repository einfügen und den lokalen Pfad konfigurieren. Bestätigen tun wir das über die Schaltfläche "Clone".</p>
         <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/atom_clone_command_link.png?raw=true" alt="atom_clone_command_link"/>
+        <p>Nun sollte das GitHub-Projekt in Atom gelistet sein.</p>
+        <img src"https://github.com/TiloKar/SoftProDoc/blob/main/img/atom_projects.png?raw=true" alt="atom_projects" />
     </li>
   </ul>
