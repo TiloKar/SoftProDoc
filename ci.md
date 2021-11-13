@@ -76,7 +76,7 @@
         <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/repository_code.png?raw=true" alt="repository_tab_code" />
         <p>Benötigt wird der Pfad zum Repository, den wir über den grünen Button "Code" (nicht verwechseln mit dem Repository-Tab) und rufen die darunter liegenden Informationen über einen Mausklick auf. Jetzt sollte der Link zum Repository sichtbar sein, den wir nun in die Zwischenablage kopieren können</p>
         <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/repository_link.png?raw=true" alt="repository_link" />
-        <p>Im Anschluss öffnen wir unseren zuvor installierten Atom-Texteditor und mittel "Strg + Shift + P" können wir nun den notwendigen clone-Befehl absetzen</p>
+        <p>Im Anschluss öffnen wir den zuvor installierten Atom-Texteditor. Mittels der Tastenkombination "Strg + Shift + P" können wir nun der notwendige clone-Befehl aufgerufen </p>
         <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/atom_clone_command.png?raw=true" alt="atom_clone_command"/>
     </li>
   </ul>
