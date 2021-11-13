@@ -58,10 +58,15 @@
   <p> Für die Verbindung des Atom-Texteditors mit GitHub sind folgende Punkte Voraussetzung </p>
   <ul>
     <li>
-      <h3>Herunterladen und Installation des Atom-Texteditors</h3>
-      <p> Unter der URL https://atom.io/ kann die aktuell Version von Atom runtergeladen werden</p>
-      <p> Im Anschluss kann die heruntergeladene .exe-Datei unter dem gewünschten Pfad installiert werden </p>
+       <h3>Registrierung bei GitHub und Repository-Verlinkung<h3>
+        <p> Logische Voraussetzung für das Verbinden seines GitHub-Accounts mit dem Atom-Texteditor ist das Erstellen eines eigenen GitHub-Accounts</p>
+        <p> Unter folgender URL https://github.com/ kann man sich innerhalb von wenigen Sekunden unter Angabe der eigenen e-Mail-Adresse, Passwort und den gewünnschten Nutzernamen einen Account erstellen.</p>
     </li>
-    <li><h3>Registrierung bei GitHub und Repository-Verlinkung<h3></li>
+    <li>
+      <h3>Herunterladen und Installation des Atom-Texteditors</h3>
+        <p> Unter der URL https://atom.io/ kann die aktuell Version von Atom runtergeladen werden</p>
+        <p> Im Anschluss kann die heruntergeladene .exe-Datei unter dem gewünschten Pfad installiert werden </p>
+        <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/atom_download.png?raw=true" alt="download_page_atom" />
+    </li>      
     <li><h3>3. XY<h3></li>
   </ul>
