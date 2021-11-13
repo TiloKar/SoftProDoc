@@ -48,6 +48,7 @@
     <p> Was ist GitHub überhaupt?</p>
     <p> GitHub ist kurz gesagt, ein Softwaretool zur Versionsverwaltung welches seit 2018 zum Unternehmen Microsoft gehört. GitHub bietet den Vorteil,   dass bei Softwareprojekten mehrere Projektbeteiligte / Entwickler an unterschiedlichen Elemente der Software arbeiten können ohne das dies Ergebnisse manuell zusammengeführt werden müssen. Dieser Aspekt lässt sich mittels GitHub nämlich automatisieren. Neben anderen Dienstleistern zur Verwaltung von quelloffener Software, steht bei GitHub der Benutzer mit seinen Quelltextdatenbanken im Fokus. Diese werden in GitHub auch Repositories genannt.
   <h3> Atom </h3>
+  <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_atom.png?raw=true" alt="logo_atom" style="max-width: 6%;"/>
   <p> Und was ist Atom? </p>
   <p> Atom ist ein Open-Source Texteditor von GitHub. Der Texteditor aus gleichem Hause bietet wie zu erwarten eine enge Verzahnung hinsichtlich der angebotenen Funktionen mit GitHub an. Zusätzlich eignet sich der Texteditor neben der mannigfaltigen Auswahl an unterstützen Programmiersprache auch bestens für die Projektdokumentation an.</p>
 <h2> Wie verbinde ich Atom mit GitHub? </h2>
