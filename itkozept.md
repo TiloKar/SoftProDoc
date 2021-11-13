@@ -35,6 +35,8 @@ Die Priorität der Vereine bei den Digitalisierungsmaßnahmen soll in der Kommun
 In den meisten Fällen wird die Organisation der Vereine über Ehrenamtliche übernommen. Von daher ist diese Zielgruppe für den Entwickler entscheidend, damit die Anwendung ihren Zweck erfüllt. Die Anwendung sollte ein gutes Arbeitsumfeld bieten und auf die individuellen Wünsche der Anwender eingehen können. Die Funktionen sollten übersichtlich und intuitiv gestaltet sein. Eine zentrale E-Mail-Adresse für Anliegen der Anwender sollte vorliegen. Die Reaktionszeit des Supports sollte nicht mehr als 2 Werktage betragen.
 
 ## Entwicklung/ Test:
+Hier lautet die Strategie: Gemeinsame Entwicklung und kontinuierliches Testen.
+Wordpress basiert auf die Skriptsprache PHP. Wordpress-Plug-Ins sind nichts anderes als PHP-Skripte. Die Entwicklung sollte sich nach dem PHP-Coding Standard richten. (siehe https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/)
 
 ## Bereitstellung:
 
