@@ -43,6 +43,6 @@
 </table>
 
 # Software
-* GitHub
-<p>Test</p>
+<h2>Allgemeine Informationen</h2>
 * Atom
+* GitHub
