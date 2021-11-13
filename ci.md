@@ -84,4 +84,3 @@
         <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/atom_projects.png?raw=true" alt="atom_projects"/>
     </li>
   </ul>
-  <p>Tests</p>
