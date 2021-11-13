@@ -53,4 +53,11 @@
   <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_atom_72x66px.png?raw=true" alt="logo_atom"/>
   <p> Und was ist Atom? </p>
   <p> Atom ist ein Open-Source Texteditor von GitHub. Der Texteditor aus gleichem Hause bietet wie zu erwarten eine enge Verzahnung hinsichtlich der angebotenen Funktionen mit GitHub an. Zusätzlich eignet sich der Texteditor neben der mannigfaltigen Auswahl an unterstützen Programmiersprache auch bestens für die Projektdokumentation an.</p>
+
 <h2> Wie verbinde ich Atom mit GitHub? </h2>
+  <p> Für die Verbindung des Atom-Texteditors mit GitHub sind folgende Punkte Voraussetzung </p>
+  <ul>
+    <li><h3>1. Herunterladen des Atom-Texteditors<h3></li>
+    <li>2. Registrierung bei GitHub und Repository-Verlinkung</li>
+    <li>3. XY</li>
+  </ul>
