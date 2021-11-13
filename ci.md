@@ -58,7 +58,7 @@
   <p> Für die Verbindung des Atom-Texteditors mit GitHub sind folgende Punkte Voraussetzung </p>
   <ul>
     <li>
-       <h3>Registrierung bei GitHub und Repository-Verlinkung<h3>
+       <h3>Registrierung bei GitHub und Repository-Verlinkung</h3>
         <p> Logische Voraussetzung für das Verbinden seines GitHub-Accounts mit dem Atom-Texteditor ist das Erstellen eines eigenen GitHub-Accounts</p>
         <p> Unter folgender URL https://github.com/ kann man sich innerhalb von wenigen Sekunden unter Angabe der eigenen e-Mail-Adresse, Passwort und den gewünnschten Nutzernamen einen Account erstellen.</p>
     </li>
