@@ -45,9 +45,10 @@
 # Software
 <h2>Allgemeine Defintion</h2>
   <h3> GitHub </h3>
-  <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_github_icon_text_150x84.png?raw=true" alt="logo_github" />
+    <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_github_icon_text_150x84.png?raw=true" alt="logo_github" />
     <p> Was ist GitHub überhaupt?</p>
     <p> GitHub ist kurz gesagt, ein Softwaretool zur Versionsverwaltung welches seit 2018 zum Unternehmen Microsoft gehört. GitHub bietet den Vorteil,   dass bei Softwareprojekten mehrere Projektbeteiligte / Entwickler an unterschiedlichen Elemente der Software arbeiten können ohne das dies Ergebnisse manuell zusammengeführt werden müssen. Dieser Aspekt lässt sich mittels GitHub nämlich automatisieren. Neben anderen Dienstleistern zur Verwaltung von quelloffener Software, steht bei GitHub der Benutzer mit seinen Quelltextdatenbanken im Fokus. Diese werden in GitHub auch Repositories genannt.
+  
   <h3> Atom </h3>
   <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_atom_72x66px.png?raw=true" alt="logo_atom"/>
   <p> Und was ist Atom? </p>
