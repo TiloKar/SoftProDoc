@@ -44,5 +44,5 @@
 
 # Software
 <h2>Allgemeine Informationen</h2>
-* Atom
-* GitHub
+<h3> Atom </h3>
+<h3> GitHub </h3>
