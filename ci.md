@@ -73,8 +73,8 @@
       <h3>Das Repository mit Atom verbinden</h3>
         <p>Nachdem man sich ein Repository in GitHub erstellt hat, kann man dieses nun mit Atom verbinden.</p>
         <p>Hierzu müssen wir in unser Repository navigieren und sichstellen, dass wir in dem Tab "Code" uns befinden. </p>
-        <img src="" alt="repository_tab_code" />
+        <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/repository_code.png?raw=true" alt="repository_tab_code" />
         <p>Benötigt wird der Pfad zum Repository, den wir über den grünen Button "Code" (nicht verwechseln mit dem Repository-Tab) und rufen die darunter liegenden Informationen über einen Mausklick auf. Jetzt sollte der Link zum Repository sichtbar sein, den wir nun in die Zwischenablage kopieren können</p>
-        <img src="" alt="repository_link" />
+        <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/repository_link.png?raw=true" alt="repository_link" />
     </li>
   </ul>
