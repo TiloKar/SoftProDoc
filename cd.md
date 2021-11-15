@@ -1,6 +1,7 @@
 # Continious Deployment für ein Wordpress Plugin
-![Continious Deployment in unserem Projekt](https://raw.githubusercontent.com/TiloKar/SoftProDoc/main/img/ci_cd%20chain_full.png "Continious Deployment in unserem Projekt"){ width: 200px; }
-* Wordpress.org stellt ein kostenloses repository zur Verfügung, um eigne Plugins zu deployen
+<img src="https://raw.githubusercontent.com/TiloKar/SoftProDoc/main/img/ci_cd%20chain_full.png" alt="Continious Deployment in unserem Projekt" width="800"/>
+
+* Wordpress.org stellt ein kostenloses repository zur Verfügung, um eigene Plugins zu deployen
 * Dabei handelt es sich um ein [SVN Repository](https://developer.wordpress.org/plugins/wordpress-org/how-to-use-subversion/)
 * dabei müssen bestimmte [Richtlinien](https://wordpress.org/plugins/developers/) eingehalten werden
 * die Richtlinien sagen vor, nur stabile Plugins sollen gepusht werden, da sie von wordpress.org ein review bekommen
