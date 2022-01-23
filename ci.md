@@ -13,7 +13,7 @@ Dabei ist es möglich, dass mehrere Entwickler an diesem Projekt gleichzeitig ar
 
 ![Continous Integration](https://i.imgur.com/OejDwPS.png "Continous Integration Circle")
 
-Damitein Versionsverwaltungssystem solche Vorteile leben kann mussen Anwender diverse Regeln halten und ...Prozessablauf... Workflow steuern --> zentr. Begrifflichkeiten um Code zu verändern --> rläutern
+Damit ein Versionsverwaltungssystem die Vorteile zur Geltung bringen kann, müssen deren Anweder an diverse Regeln halten, um den Prozessablauf bzw. den Workflow zu steuern. Folgend kommen einige zentrale Begrifflichkeiten um den Code zu verändern:
 
 <table>
   <thead>
@@ -24,7 +24,7 @@ Damitein Versionsverwaltungssystem solche Vorteile leben kann mussen Anwender di
   </thead>
   <tbody>
     <tr>
-      <td>fetch</td>
+      <td>Fetch</td>
       <td>Mit diesem Befehl werden Commits, Dateien und Verweise aus einem Remote-Repository heruntergeladen.</td>
     </tr>
     <tr>
@@ -36,20 +36,20 @@ Damitein Versionsverwaltungssystem solche Vorteile leben kann mussen Anwender di
       <td>Der Befehl commit nimmt alle Änderungen mit in den Stage-Bereich. Somit ist commit ein Checkpoint in der alle Änderungen verfolgt werden.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>push</td>
+      <td>Dieser Befehl wird verwendet um Dateien, die bereits "commited" sind vom lokalen Repository in das Remote-Repository hochzuladen.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stage</td>
-      <td></td>
+      <td>Clone</td>
+      <td>Der Befehl clone wird genutzt um ein bereits vorhandenes Repository als Ziel festzulegen und einen Klon des Ziel-Repositories zu erstellen.</td>
     </tr>
     <tr>
       <td>Branch</td>
-      <td></td>
+      <td>Ein Branch ist eine isolierte Entwicklungslinie, die existiert um den stabilen Hauptcode nicht zu beschädigen. Der Befehl branch führt dabei alle vorhandenen Branches aus</td>
+    </tr>
+    <tr>
+      <td>Merge</td>
+      <td>Dieser Befehl wird genutzt um zwei Branches zu vereinen</td>
     </tr>
   </tbody>
 </table>
