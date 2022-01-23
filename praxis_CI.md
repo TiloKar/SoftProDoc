@@ -1,7 +1,7 @@
 //Author: Hanning Liu, Kevin Beeskow
 //Date: 13.11.2021
 
-# CI in der Praxis
+# CI an einem Anwendungsbeispiel
 <h2>Software</h2>
   <h3> GitHub </h3>
     <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_github_icon_text_150x84.png?raw=true" alt="logo_github" />
