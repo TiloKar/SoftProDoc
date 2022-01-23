@@ -23,7 +23,7 @@ Damitein Versionsverwaltungssystem solche Vorteile leben kann mussen Anwender di
   <tbody>
     <tr>
       <td>Pull</td>
-      <td>-</td>
+      <td>Dieser Befehl wird genutzt um alle Inhalte aus einen Repository herunterzuladen und das aktuelle Repository zu aktualisieren. So übereinstimmen die Inhalte beider Repositories</td>
     </tr>
     <tr>
       <td>Push</td>
@@ -39,7 +39,7 @@ Damitein Versionsverwaltungssystem solche Vorteile leben kann mussen Anwender di
     </tr>
     <tr>
       <td>Commit</td>
-      <td></td>
+      <td>Der Befehl commit nimmt alle Änderungen mit in den Stage-Bereich. Somit ist commit ein Checkpoint in der alle Änderungen verfolgt werden.</td>
     </tr>
     <tr>
       <td>Stage</td>
