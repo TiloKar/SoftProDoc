@@ -2,7 +2,7 @@
 CI heißt Continous Integration und beinhaltet den Automatisierungsprozess für das Entwicklerteam. Dabei werden, wenn das System erfolgreich angewandt wird, regelmäßig neue Codeänderungen für das Projekt entwickelt, geprüft und zum Schluss in ein gemeinsames Repostory zusammengeführt.
 Dabei ist es möglich, dass mehrere Entwickler an diesem Projekt gleichzeitig arbeiten können, ohne dass sie sich selbst stören. Somit ist die Zusammenführung der neu entwickelten Codes viel häufiger möglich. Und durch die häufigen Zusammenführung ist es möglich schneller und öfter Feedback für die Entwickler selbst zu bekommen.
 
-# Vorteile
+<h2>Vorteile</h2>
 
 * Dadurch, dass keine "Riesenänderungen" vorgenommen werden, ist es möglich kleinere Fehler zu beheben, sodass eine Ansammlung von Problemen nicht möglich ist.
 * Durch CI ist das Projekt, auch während der Bearbeitungsphase, ununterbrochen verfügbar.
@@ -13,48 +13,13 @@ Dabei ist es möglich, dass mehrere Entwickler an diesem Projekt gleichzeitig ar
 
 ![Continous Integration](https://i.imgur.com/OejDwPS.png "Continous Integration Circle")
 
-# Vorteile und Nachteile vom CI
-<table>
-  <thead>
-    <tr>
-      <th>Vorteile</th>
-      <th>Nachteile</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Durch die stetigen Aktualisierungen ist ein durchgängiges Feedback möglich, welches die Anpassung und die Problemfindung vereinfacht.</td>
-      <td>Umgewöhnung / Umstellung der gewohnten Prozesse -> Widerstand</td>
-    </tr>
-    <tr>
-      <td>Keine "Riesenänderungen", die am Ende zu viele Probleme beinhalten</td>
-      <td>Zusätzliche Software und Umgebungen/td>
-    </tr>
-    <tr>
-      <td>ununterbrochene Verfügbarkeit</td>
-      <td>Schwierigkeiten bei Projekten mit vielen Entwickler, durch Wartezeit oder "Überschreibungen"</td>
-    </tr>
-    <tr>
-      <td>einfaches Austauschen von Informationen oder Verbesserungen durch die stetige Einsicht</td>
-      <td>benötigt zugeschnittene Tests -> CD</td>
-    </tr>
-    <tr>
-      <td>Genaue Protokollierungen / Zeitmaschine</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>frühzeitiges Erkennen von Fehler, die umgehend bearbeitet werden können</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
 
-# Software
-<h2>Allgemeine Defintion</h2>
+# CI in der Praxis
+<h2>Software</h2>
   <h3> GitHub </h3>
     <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_github_icon_text_150x84.png?raw=true" alt="logo_github" />
     <p> Was ist GitHub überhaupt?</p>
-    <p> GitHub ist kurz gesagt, ein Softwaretool zur Versionsverwaltung welches seit 2018 zum Unternehmen Microsoft gehört. GitHub bietet den Vorteil,   dass bei Softwareprojekten mehrere Projektbeteiligte / Entwickler an unterschiedlichen Elemente der Software arbeiten können ohne das dies Ergebnisse manuell zusammengeführt werden müssen. Dieser Aspekt lässt sich mittels GitHub nämlich automatisieren. Neben anderen Dienstleistern zur Verwaltung von quelloffener Software, steht bei GitHub der Benutzer mit seinen Quelltextdatenbanken im Fokus. Diese werden in GitHub auch Repositories genannt.
+    <p> GitHub ist kurz gesagt, ein Softwaretool zur Versionsverwaltung welches seit 2018 zum Unternehmen Microsoft gehört. GitHub bietet den Vorteil, dass bei Softwareprojekten mehrere Projektbeteiligte / Entwickler an unterschiedlichen Elemente der Software arbeiten können ohne das dies Ergebnisse manuell zusammengeführt werden müssen. Dieser Aspekt lässt sich mittels GitHub nämlich automatisieren. Neben anderen Dienstleistern zur Verwaltung von quelloffener Software, steht bei GitHub der Benutzer mit seinen Quelltextdatenbanken im Fokus. Diese werden in GitHub auch Repositories genannt.
 
   <h3> Atom </h3>
   <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_atom_72x66px.png?raw=true" alt="logo_atom"/>
