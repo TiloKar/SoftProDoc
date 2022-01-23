@@ -11,6 +11,8 @@ Dabei ist es möglich, dass mehrere Entwickler an diesem Projekt gleichzeitig ar
 * Durch eine genaue Protokollierung der Änderungen, ist es möglich die Timeline des Codes nachzuvollziehen und ggf. abzuändern, sodass Fehler reversibel sind.
 * Durch die frühzeitige Fehlererkennung können Probleme direkt angesprochen und behoben werden.
 
+![Continous Integration](https://i.imgur.com/OejDwPS.png "Continous Integration Circle")
+
 Damitein Versionsverwaltungssystem solche Vorteile leben kann mussen Anwender diverse Regeln halten und ...Prozessablauf... Workflow steuern --> zentr. Begrifflichkeiten um Code zu verändern --> rläutern
 
 <table>
@@ -22,24 +24,24 @@ Damitein Versionsverwaltungssystem solche Vorteile leben kann mussen Anwender di
   </thead>
   <tbody>
     <tr>
-      <td>Pull</td>
-      <td>Dieser Befehl wird genutzt um alle Inhalte aus einen Repository herunterzuladen und das aktuelle Repository zu aktualisieren. So übereinstimmen die Inhalte beider Repositories</td>
-    </tr>
-    <tr>
-      <td>Push</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Clone</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>fetch</td>
-      <td></td>
+      <td>Mit diesem Befehl werden Commits, Dateien und Verweise aus einem Remote-Repository heruntergeladen.</td>
+    </tr>
+    <tr>
+      <td>Pull</td>
+      <td>Dieser Befehl wird genutzt um alle Inhalte aus einen Remote-Repository herunterzuladen und zusätzlich das aktuelle lokale Repository zu aktualisieren. So übereinstimmen die Inhalte beider Repositories</td>
     </tr>
     <tr>
       <td>Commit</td>
       <td>Der Befehl commit nimmt alle Änderungen mit in den Stage-Bereich. Somit ist commit ein Checkpoint in der alle Änderungen verfolgt werden.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Stage</td>
@@ -52,6 +54,6 @@ Damitein Versionsverwaltungssystem solche Vorteile leben kann mussen Anwender di
   </tbody>
 </table>
 
-![Continous Integration](https://i.imgur.com/OejDwPS.png "Continous Integration Circle")
+
 
 Hier zu [CI-Anwendungsbeispiel](https://github.com/TiloKar/SoftProDoc/blob/main/praxis_CI.md)
