@@ -16,7 +16,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>durchgängiges Feedback durch die stetige Aktualisierungen</td>
+      <td>Durch die stetigen Aktualisierungen ist ein durchgängiges Feedback möglich, welches die Anpassung und die Problemfindung vereinfacht.</td>
       <td>Umgewöhnung / Umstellung der gewohnten Prozesse -> Widerstand</td>
     </tr>
     <tr>
