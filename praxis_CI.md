@@ -1,8 +1,8 @@
-//Author: Hanning Liu, Kevin Beeskow
-//Date: 13.11.2021
-
 # CI an einem Anwendungsbeispiel
+
 <h2>Software</h2>
+
+Das Versionskontrollensystem Git sowie der Open-Source Editor Atom sind lediglich zwei mögliche Programme die wir genutzt haben.
   <h3> GitHub </h3>
     <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_github_icon_text_150x84.png?raw=true" alt="logo_github" />
     <p> Was ist GitHub überhaupt?</p>
@@ -12,6 +12,8 @@
   <img src="https://github.com/TiloKar/SoftProDoc/blob/main/img/logo_atom_72x66px.png?raw=true" alt="logo_atom"/>
   <p> Und was ist Atom? </p>
   <p> Atom ist ein Open-Source Texteditor von GitHub. Der Texteditor aus gleichem Hause bietet wie zu erwarten eine enge Verzahnung hinsichtlich der angebotenen Funktionen mit GitHub an. Zusätzlich eignet sich der Texteditor neben der mannigfaltigen Auswahl an unterstützen Programmiersprache auch bestens für die Projektdokumentation an.</p>
+
+# Anleitung vom Download bis zum erfolgreichen Push
 
 <h2> Wie verbinde ich Atom mit meinem GitHub-Repository? </h2>
   <p> Für die Verbindung des Atom-Texteditors mit GitHub sind folgende Punkte Voraussetzung </p>
