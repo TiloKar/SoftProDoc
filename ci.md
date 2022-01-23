@@ -2,7 +2,7 @@
 CI heißt Continous Integration und beinhaltet den Automatisierungsprozess für das Entwicklerteam. Dabei werden, wenn das System erfolgreich angewandt wird, regelmäßig neue Codeänderungen für das Projekt entwickelt, geprüft und zum Schluss in ein gemeinsames Repostory zusammengeführt.
 Dabei ist es möglich, dass mehrere Entwickler an diesem Projekt gleichzeitig arbeiten können, ohne dass sie sich selbst stören. Somit ist die Zusammenführung der neu entwickelten Codes viel häufiger möglich. Und durch die häufigen Zusammenführung ist es möglich schneller und öfter Feedback für die Entwickler selbst zu bekommen.
 
-<h2>Vorteile</h2>
+<h3>Vorteile</h3>
 
 * Dadurch, dass keine "Riesenänderungen" vorgenommen werden, ist es möglich kleinere Fehler zu beheben, sodass eine Ansammlung von Problemen nicht möglich ist.
 * Durch CI ist das Projekt, auch während der Bearbeitungsphase, ununterbrochen verfügbar.
