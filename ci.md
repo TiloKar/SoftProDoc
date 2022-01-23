@@ -1,10 +1,15 @@
 # Theorie von CI
 CI heißt Continous Integration und beinhaltet den Automatisierungsprozess für das Entwicklerteam. Dabei werden, wenn das System erfolgreich angewandt wird, regelmäßig neue Codeänderungen für das Projekt entwickelt, geprüft und zum Schluss in ein gemeinsames Repostory zusammengeführt.
 Dabei ist es möglich, dass mehrere Entwickler an diesem Projekt gleichzeitig arbeiten können, ohne dass sie sich selbst stören. Somit ist die Zusammenführung der neu entwickelten Codes viel häufiger möglich. Und durch die häufigen Zusammenführung ist es möglich schneller und öfter Feedback für die Entwickler selbst zu bekommen.
-* Gleichzeitiges bearbeiten von Projekten
-* Automatisierung für Entwickler
-* kontinuierliche Änderungen
-* Rückmeldung für Entwickler
+
+# Vorteile
+
+* Dadurch, dass keine "Riesenänderungen" vorgenommen werden, ist es möglich kleinere Fehler zu beheben, sodass eine Ansammlung von Problemen nicht möglich ist.
+* Durch CI ist das Projekt, auch während der Bearbeitungsphase, ununterbrochen verfügbar.
+* Die stetige Einsicht ermöglich ein einfaches Austauschen von Informationen oder Verbesserungen.
+* Durch die stetigen Aktualisierungen ist ein durchgängiges Feedback möglich, welches die Anpassung und die Problemfindung vereinfacht.
+* Durch eine genaue Protokollierung der Änderungen, ist es möglich die Timeline des Codes nachzuvollziehen und ggf. abzuändern, sodass Fehler reversibel sind.
+* Durch die frühzeitige Fehlererkennung können Probleme direkt angesprochen und behoben werden.
 
 ![Continous Integration](https://i.imgur.com/OejDwPS.png "Continous Integration Circle")
 
